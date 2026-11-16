@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env.local
+*.log
+next-env.d.ts
+tsconfig.tsbuildinfo
+# Imported originals archived by the inbox importer
+content/inbox/_imported
